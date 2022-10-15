@@ -1,6 +1,6 @@
 ![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa_logo.jpg)
 
-## Je suis une future ingénieur logiciel
+## Je suis la future Spécialiste en qualité logicielle
 
 ### Je suis une étudiante et j'apprends l'assurance qualité logicielle
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
