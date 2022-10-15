@@ -6,16 +6,12 @@
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
 
 ### J'apprends
-- Les exigences qualité
-- Les normes et modèles du génie logiciel
-- Les revues
-- L’audit du logiciel
-- La vérification et la validation
-- La gestion de configuration du logiciel
-- Les politiques, processus et procédures
-- La mesure
-- La gestion du risque
-- La culture qualité
+
+Les exigences qualité                            Les normes et modèles du génie logiciel
+Les revues                                       L’audit du logiciel
+La vérification et la validation                 La gestion de configuration du logiciel 
+Les politiques, processus et procédures          La mesure
+La gestion du risque                             La culture qualité
 
 ### Langages et Outils
 
