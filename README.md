@@ -1,8 +1,8 @@
 ![Header](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/testing.png)
 
-## I’m a beginner Software Engineer
+## Je suis une future ingénieur logiciel
 
-## I’m study a Software Testing
+# Je suis étudiant et j'étudie une assurance qualité logicielle
 
 Languages and Tools
 
