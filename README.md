@@ -1,5 +1,5 @@
 ![Header](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qualite.jpg)
-https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/bdb2.png
+!(https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/bdb2.png)
 ## Je suis une future ingénieur logiciel
 
 ### Je suis étudiante et j'apprends l'assurance qualité logicielle
