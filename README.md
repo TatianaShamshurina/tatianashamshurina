@@ -32,4 +32,4 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=E9D54D)
 
 
-[![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=dark&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
+[![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=great-gatsby&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
