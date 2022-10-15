@@ -1,8 +1,8 @@
 ![Header](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/testing.png)
 
-About me
+## I'm b
 
-I’m currently learning
+I’m a beginner Software Engineer
 
 Languages and Tools
 
