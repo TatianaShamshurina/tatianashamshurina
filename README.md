@@ -2,7 +2,7 @@
 
 ## Je suis une future ingénieur logiciel
 
-### Je suis étudiante et j'apprends l'assurance qualité logicielle
+### Je suis une étudiante et j'apprends l'assurance qualité logicielle
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
 
 ### J'apprends
@@ -33,8 +33,3 @@
 
 
 [![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=dark&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
-
-
-
-
-Follow me
