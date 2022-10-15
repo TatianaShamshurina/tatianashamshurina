@@ -1,10 +1,10 @@
 ![Header](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qualite.jpg)
-
+https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/bdb2.png
 ## Je suis une future ingénieur logiciel
 
 ### Je suis étudiante et j'apprends l'assurance qualité logicielle
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
-![College](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/bdb2.png)
+
 ### J'apprends
 - Les exigences qualité
 - Les normes et modèles du génie logiciel
