@@ -1,4 +1,4 @@
-![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qualite.jpg)
+![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa_logo.jpg)
 
 ## Je suis une future ingénieur logiciel
 
