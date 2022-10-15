@@ -22,6 +22,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=tatianashamshurina&theme=dark&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
+
 
 
 
