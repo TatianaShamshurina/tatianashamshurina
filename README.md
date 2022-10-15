@@ -1,4 +1,4 @@
-![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/logo_tania_1.png)
+![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qualite_1.png)
 
 ## Je suis la future Spécialiste en qualité logicielle
 
