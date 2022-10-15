@@ -21,8 +21,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF4A06?style=for-the-badge&logo=Postman&logoColor=E9D54D)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=highcontrast&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
+[![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=dark&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
 
 
 
