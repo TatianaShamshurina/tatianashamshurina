@@ -21,6 +21,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF4A06?style=for-the-badge&logo=Postman&logoColor=E9D54D)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina)](https://github.com/tatianashamshurina/github-readme-stats)
 
 
 
