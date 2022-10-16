@@ -3,9 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$7a2011&lines=J'apprends+l'assurance+qualité;Je+suis+la+future+Spécialiste+QA)
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
 
-#####![J'apprends](https://img.shields.io/badge/-J'apprends-420D01?style=for-the-badge&logo=html&logoColor=E9D54D)
+![J'apprends](https://img.shields.io/badge/-J'apprends-420D01?style=for-the-badge&)
 
-### J'apprends
 * Les exigences qualité
 * Les normes et modèles du génie logiciel
 * Les mesures, les métriques
