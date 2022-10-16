@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=E9D54D)
-![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=204BFF)
+![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=E9D54D)
 ![TestLink](https://img.shields.io/badge/-TestLink-090909?style=for-the-badge&logo=testlink&logoColor=E9D54D)
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=E9D54D)
 ![Flutter](https://img.shields.io/badge/-UML-090909?style=for-the-badge&logo=Uml&logoColor=E9D54D)
