@@ -2,8 +2,7 @@
 
 
 *<h2><marquee behavior="scroll" direction="left" loop="2000" scrollamount="4"><font color="#420D01">Je suis la future Spécialiste en qualité logicielle. Je suis une étudiante et j'apprends l'assurance qualité du logicielle </font></marquee></h2>*
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%420D01&lines=Je+suis+la+future+Spécialiste+en+qualité+logicielle.)](https://git.io/typing-svg)
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
 
 ### J'apprends
