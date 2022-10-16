@@ -1,9 +1,9 @@
 ![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/tania_qa_2.png)
 
-## Je suis la future Spécialiste en qualité logicielle
-<h2><marquee behavior="scroll" direction="left" loop="2000" scrollamount="4"><font color="#420D01">Je suis la future Spécialiste en qualité logicielle. Je suis une étudiante et j'apprends l'assurance qualité du logicielle </font></marquee></h2>
 
-### Je suis une étudiante et j'apprends l'assurance qualité logicielle
+![](<h2><marquee behavior="scroll" direction="left" loop="2000" scrollamount="4"><font color="#420D01">Je suis la future Spécialiste en qualité logicielle. Je suis une étudiante et j'apprends l'assurance qualité du logicielle </font></marquee></h2>)
+
+
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
 
 ### J'apprends
