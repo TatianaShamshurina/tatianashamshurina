@@ -28,5 +28,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=E9D54D)
 ![VMware](https://img.shields.io/badge/-VMware-090909?style=for-the-badge&logo=VMare)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
+![MS Project](https://img.shields.io/badge/-MSProject-090909?style=for-the-badge&logo=MSProject&logoColor=FFFFFF)
 
 [![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=great-gatsby&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
