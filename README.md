@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 
+![ISTQB](https://img.shields.io/badge/-ISTQB-090909?style=for-the-badge&logo=ISTQB&logoColor=E9D54D)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=E9D54D)
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=E9D54D)
 ![TestLink](https://img.shields.io/badge/-TestLink-090909?style=for-the-badge&logo=testlink&logoColor=E9D54D)
