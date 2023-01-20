@@ -4,6 +4,8 @@
 
 *[Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)*
 
+*[Visiter mon site GitHub](https://tatianashamshurina.github.io/Resume_Tatsiana/)*
+
 ![J'apprends](https://img.shields.io/badge/-J'apprends-420D01?style=for-the-badge&)
 
 * Les exigences qualité
