@@ -37,9 +37,11 @@
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=E9D54D)
 ![Flutter](https://img.shields.io/badge/-UML-090909?style=for-the-badge&logo=Uml&logoColor=E9D54D)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=E9D54D)
+
 ![VMware](https://img.shields.io/badge/-VMware-090909?style=for-the-badge&logo=VMare)
 ![Cisco](https://img.shields.io/badge/-Cisco-090909?style=for-the-badge&logo=Cisco)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
+
 ![MS Project](https://img.shields.io/badge/-MS_Project-090909?style=for-the-badge&logo=MS_Project&logoColor=FFFFFF)
 
 [![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=great-gatsby&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
