@@ -8,14 +8,18 @@
 
 ![J'apprends](https://img.shields.io/badge/-J'apprends-420D01?style=for-the-badge&)
 
-* Les exigences qualité
-* Les normes et modèles du génie logiciel
-* Les mesures, les métriques
-* La vérification et la validation, les revues
-* La gestion de configuration du logiciel 
-* Les politiques, processus et procédures
-* La gestion du risque
-* La culture qualité
+* Les exigences qualité                                     * Bonnes connaissances des réseaux TCP/IP/HTTP...
+* Les normes et modèles du génie logiciel                   * Bonne connaissance d'architecture d'un réseau informatique
+* Les mesures, les métriques                                * Bonnes connaissance des systèmes d'exploitation
+* La vérification et la validation, les revues              * Bonne connaissance de Linux* 
+* La gestion de configuration du logiciel                   
+* Les politiques, processus et procédures                   * Bonne connaissance de virtualization
+* La gestion du risque                                      * Algorithmes et structures de données
+* La culture qualité                                        * Base de données SQL, MySql, Postgresql
+
+
+
+
 ### Langages et Outils
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=E9D54D)
@@ -30,6 +34,7 @@
 ![Flutter](https://img.shields.io/badge/-UML-090909?style=for-the-badge&logo=Uml&logoColor=E9D54D)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=E9D54D)
 ![VMware](https://img.shields.io/badge/-VMware-090909?style=for-the-badge&logo=VMare)
+![Cisco](https://img.shields.io/badge/-Cisco-090909?style=for-the-badge&logo=Cisco)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 ![MS Project](https://img.shields.io/badge/-MS_Project-090909?style=for-the-badge&logo=MS_Project&logoColor=FFFFFF)
 
