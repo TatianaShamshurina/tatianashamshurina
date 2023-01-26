@@ -8,17 +8,21 @@
 
 ![J'apprends](https://img.shields.io/badge/-J'apprends-420D01?style=for-the-badge&)
 
-* Les exigences qualité                                     * Bonnes connaissances des réseaux TCP/IP/HTTP...
-* Les normes et modèles du génie logiciel                   * Bonne connaissance d'architecture d'un réseau informatique
-* Les mesures, les métriques                                * Bonnes connaissance des systèmes d'exploitation
-* La vérification et la validation, les revues              * Bonne connaissance de Linux* 
+* Les exigences qualité                                     
+* Les normes et modèles du génie logiciel                   
+* Les mesures, les métriques                                
+* La vérification et la validation, les revues              
 * La gestion de configuration du logiciel                   
-* Les politiques, processus et procédures                   * Bonne connaissance de virtualization
-* La gestion du risque                                      * Algorithmes et structures de données
-* La culture qualité                                        * Base de données SQL, MySql, Postgresql
-
-
-
+* Les politiques, processus et procédures                    
+* La gestion du risque                                       
+* La culture qualité                                         
+* Bonnes connaissances des réseaux TCP/IP/HTTP...
+* Bonne connaissance d'architecture d'un réseau informatique
+* Bonnes connaissance des systèmes d'exploitation
+* Bonne connaissance de Linux
+* Tres Bonne connaissance de virtualization
+* Algorithmes et structures de données
+* Base de données SQL, MySql, Postgresql
 
 ### Langages et Outils
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
