@@ -1,4 +1,4 @@
-![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/tania_qa_2.png)
+![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality.jpg)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$7a2011&lines=J'apprends+l'assurance+qualité;Je+suis+la+future+Spécialiste+QA)
 
