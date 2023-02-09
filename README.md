@@ -44,4 +44,4 @@
 
 ![MS Project](https://img.shields.io/badge/-MS_Project-090909?style=for-the-badge&logo=MS_Project&logoColor=FFFFFF)
 
-[![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=great-gatsby&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
+[![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=chartreuse-dark&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
