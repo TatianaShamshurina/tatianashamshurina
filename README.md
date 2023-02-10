@@ -40,7 +40,7 @@
 
 ![VMware](https://img.shields.io/badge/-VMware-090909?style=for-the-badge&logo=VMare)
 ![Cisco](https://img.shields.io/badge/-Cisco-090909?style=for-the-badge&logo=Cisco)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=0E6655)
+![Linux](https://img.shields.io/badge/-Linux-0E6655?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 
 ![MS Project](https://img.shields.io/badge/-MS_Project-090909?style=for-the-badge&logo=MS_Project&logoColor=FFFFFF)
 
