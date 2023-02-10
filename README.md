@@ -39,7 +39,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=E9D54D)
 
 ![VMware](https://img.shields.io/badge/-VMware-090909?style=for-the-badge&logo=VMare)
-![Cisco](https://img.shields.io/badge/-Cisco-090909?style=for-the-badge&logo=Cisco)
+![Cisco](https://img.shields.io/badge/-Cisco-FFFFFF?style=for-the-badge&logo=Cisco)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 
 ![MS Project](https://img.shields.io/badge/-MS_Project-090909?style=for-the-badge&logo=MS_Project&logoColor=FFFFFF)
