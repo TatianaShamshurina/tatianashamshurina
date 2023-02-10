@@ -49,7 +49,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![VMware](https://img.shields.io/badge/-VMware-090909?style=for-the-badge&logo=VMare)
-![Cisco](https://img.shields.io/badge/-Cisco-090909?style=for-the-badge&logo=Cisco)
+![Cisco](https://img.shields.io/badge/-Cisco-090909?style=for-the-badge&logo=Cisco&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
