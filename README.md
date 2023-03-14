@@ -1,6 +1,6 @@
 ![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qualite_1.png)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=L'assurance+qualité+est+ma+passion!;Je+suis+la+Spécialiste+QA!)
+![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=L'assurance+qualité+est+ma+passion!;Je+suis+la+Spécialiste+QA!+I+am+QA+Engineer!+I+love+it!)
 
 *[Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)*
 
