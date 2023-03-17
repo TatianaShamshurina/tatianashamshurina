@@ -8,7 +8,7 @@
 
 ![The only way to make great software is by working with great people!](https://img.shields.io/badge/-The only way to make great software is by working with great people-style=for-the-badge&)
 ![The only way to make great software is by working with great people!](https://img.shields.io/badge/The only way to make great software is by working with great people!-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![The only way to make great software is by working with great people!](https://img.shields.io/badge/-J'The only way to make great software is by working with great people!-f4fffc?style=for-the-badge&)
+![The only way to make great software is by working with great people!](https://img.shields.io/badge/-The only way to make great software is by working with great people!-f4fffc?style=for-the-badge&)
 ![J'apprends](https://img.shields.io/badge/-J'apprends-420D01?style=for-the-badge&)
 
 * Les exigences qualité                                     
