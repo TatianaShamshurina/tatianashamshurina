@@ -6,7 +6,7 @@
 
 *[Download Resume](https://tatianashamshurina.github.io/Resume_Tatsiana_Website/assets/CV_TATSIANA_SHAMSHURINA.pdf)*
 
-![The only way to make great software is by working with great people!](https://img.shields.io/badge/-The+only+way+to+make+great+software+is+by+working+with+great+people-420D01?style=for-the-badge&)
+![The only way to make great software is by working with great people!](https://img.shields.io/badge/-The only way to make great software is by working with great people-00FFFF?style=for-the-badge&)
 
 * Les exigences qualité                                     
 * Les normes et modèles du génie logiciel                   
