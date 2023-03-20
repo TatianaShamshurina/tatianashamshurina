@@ -5,10 +5,7 @@
 *[Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)*
 
 *[Download Resume](https://tatianashamshurina.github.io/Resume_Tatsiana_Website/assets/CV_TATSIANA_SHAMSHURINA.pdf)*
-
 ![The+only way to make great software is by working with great people](https://img.shields.io/badge/-J'apprends-dbfff5?style=for-the-badge&)
-
-![J'apprends](https://img.shields.io/badge/-J'apprends-420D01?style=for-the-badge&)
 
 * Les exigences qualité                                     
 * Les normes et modèles du génie logiciel                   
