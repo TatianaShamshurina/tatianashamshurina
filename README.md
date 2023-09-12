@@ -1,4 +1,4 @@
-![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/image/quality-assurance-process-main.jpg)
+![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=L'assurance+qualité+est+ma+passion!;Je+suis+la+Spécialiste+QA!;+I+am+QA+Engineer!+I+love+it!)
 
