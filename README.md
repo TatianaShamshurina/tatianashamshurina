@@ -3,7 +3,7 @@
 
 *[Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)*
 
-## About
+***About***
 #### College graduate with a degree in Software Quality Specialist.
 - Formal education and experience in black and gray box testing of web applications.
 - Experience in test planning, test case creation, bug identification, analysis and tracking.
