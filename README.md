@@ -5,7 +5,7 @@
 
 ## About
 
-### Software testing is my passion!
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Software+testing+is+my+passion!)
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=I+am+QA+Engineer!+I+love+it!+L'assurance+qualité+est+ma+passion!;Je+suis+la+Spécialiste+QA!)
 
