@@ -7,7 +7,6 @@
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=Software+testing+is+my+passion!)<br>
-![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=I+am+QA+Engineer!+I+love+it!+L'assurance+qualité+est+ma+passion!;Je+suis+la+Spécialiste+QA!)
 
 I enjoy developing and applying my knowledge and practical experience to create a good, reliable product that meets customer requirements and satisfaction!
 My greatest strength is having valuable software testing skills and the desire to learn more, which makes me a true professional QA engineer in this field:
