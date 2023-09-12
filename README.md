@@ -1,5 +1,6 @@
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatsiana</a> 
 
-![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg) align="right alt="banner that says Tatiana Shamshurina - Software Quality Engineer"
+![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg) 
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
 
 <a href="https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal" target="_blank">Lien de ma formation</a>
