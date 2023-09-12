@@ -2,6 +2,9 @@
 <img src= https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg align="right">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=L'assurance+qualité+est+ma+passion!;Je+suis+la+Spécialiste+QA!;+I+am+QA+Engineer!+I+love+it!)
+
+*[Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)*
+
 <p align="center">
       <img src="Project Logo Url" width="726">
 </p>
@@ -30,8 +33,6 @@ Documentation Here
 - [Delevoper Name](GitHub Profile Link)
 
 ## License
-*[Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)*
-
 *[Download Resume](https://tatianashamshurina.github.io/Resume_Tatsiana_Website/assets/CV_TATSIANA_SHAMSHURINA.pdf)*
 
 ![The+only way to make great software is by working with great people](https://img.shields.io/badge/-QA-dbfff5?style=for-the-badge&)
