@@ -1,4 +1,4 @@
-<img src= [https://github.com/TatianaShamshurina/tatianashamshurina/image/quality-assurance-process-main.jpg] align="right alt="banner that says Tatiana Shamshurina - Software Quality Engineer">
+
 ![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg) align="right alt="banner that says Tatiana Shamshurina - Software Quality Engineer"
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
 
