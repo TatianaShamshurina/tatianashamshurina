@@ -1,7 +1,7 @@
 
 <img src= https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg align="right">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=L'assurance+qualité+est+ma+passion!;Je+suis+la+Spécialiste+QA!;+I+am+QA+Engineer!+I+love+it!)
+
 
 *[Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)*
 
@@ -9,7 +9,10 @@
 
 ## About
 
-Software testing is my passion! I enjoy developing and applying my knowledge and practical experience to create a good, reliable product that meets customer requirements and satisfaction!
+Software testing is my passion! 
+![Typing SVG](https://readme-typing-svg.demolab.com?color=$0E6655&lines=L'assurance+qualité+est+ma+passion!;I+am+QA+Engineer!+I+love+it!+Je+suis+la+Spécialiste+QA!;)
+
+I enjoy developing and applying my knowledge and practical experience to create a good, reliable product that meets customer requirements and satisfaction!
 My greatest strength is having valuable software testing skills and the desire to learn more, which makes me a true professional QA engineer in this field:
 - College graduate with a degree in Software Quality Specialist.
 - Formal education and experience in black and gray box testing of web and mobile applications.
