@@ -1,11 +1,13 @@
 
 <img src= https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg align="right">
+<img src= https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg alt="banner that says Tatiana Shamshurina - Software Quality Engineer">
 [Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)
 <a href="https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal" target="_blank">Lien de ma formation</a>
 
 
 ### About ###
-***College graduate with a degree in Software Quality Specialist***.
+#Hi, I am Tatiana
+***I am College graduate with a degree in Software Quality Specialist***.
 - Formal education and experience in black and gray box testing of web applications.
 - Experience in test planning, test case creation, bug identification, analysis and tracking.
 - Good knowledge of open source and commercial test management and bug reporting tools.
