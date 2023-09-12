@@ -23,16 +23,6 @@ About Text Here
 
 Documentation Here
 
-## Distribute
-
-- [Service Name](Page Link)
-
-
-## Developers
-
-- [Delevoper Name](GitHub Profile Link)
-
-## License
 *[Download Resume](https://tatianashamshurina.github.io/Resume_Tatsiana_Website/assets/CV_TATSIANA_SHAMSHURINA.pdf)*
 
 ![The+only way to make great software is by working with great people](https://img.shields.io/badge/-QA-dbfff5?style=for-the-badge&)
