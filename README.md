@@ -5,9 +5,6 @@
 
 *[Lien de ma formation](https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal/)*
 
-<p align="center">
-      <img src="Project Logo Url" width="726">
-</p>
 
 
 ## About
