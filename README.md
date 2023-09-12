@@ -13,12 +13,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!)<br>
 
 I enjoy developing and applying my knowledge and practical experience to create a good, reliable product that meets customer requirements and satisfaction!
+
 My greatest strength is having valuable software testing skills and the desire to learn more, which makes me a true professional QA engineer in this field:
-- College graduate with a degree in Software Quality Specialist.
-- Formal education and experience in black and gray box testing of web and mobile applications.
-- Experience in test planning, test case creation, bug identification, analysis and tracking.
-- Good knowledge of open source and commercial test management and bug reporting tools.
-- Hands-on experience in functional, end-to-end, smoke, regression, UI, backend, cross-browser and cross-platform, user acceptance testing.
+
 - HTML, XPath, Python, Java, JavaScript
 - Practical experience in testing web services (RESTful API) using Postman.
 - Experience in test automation using the Selenium WebDriver Python, Cypress framework.
