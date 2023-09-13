@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatsiana</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
-<p style="float:right"><img src="tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg" /></p>
+<p style="float:right"><img src="[tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg)" /></p>
 
 ### About ###
 #Hi, I am Tatiana
