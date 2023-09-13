@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 
 <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg"
-width="363" height="225" alt="banner_qa.gif"
- title="Какой-то текс при наведении!!!" border="0" />
+width="363" height="225" alt="banner_qa.gif" align="right"
+title="Какой-то текс при наведении!!!" border="0" />
 ### About ###
 #Hi, I am Tatiana
 ***I am College graduate with a degree in Software Quality Specialist***.
