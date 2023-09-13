@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 
 <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" align="left">
-<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/all_about_my_projects.jpg align="right">
+<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/all_about_my_projects.jpg>
 width="6353" height="393" alt="banner_qa.gif"
 title="Какой-то текс при наведении!!!" border="0" />
 
