@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatsiana</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
-
-<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/all_about_my_projects.jpg" align="right"
+<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/all_about_my_projects.jpg"
 width="363" height="225" alt="banner_qa.gif"
 title="Какой-то текс при наведении!!!" border="0" />
 ### About ###
