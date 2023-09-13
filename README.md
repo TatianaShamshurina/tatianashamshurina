@@ -4,14 +4,14 @@
 <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" align="right">
 
 ### About ###
-#Hi, I am Tatiana
+# Hi, I am Tatiana
 ***I am College graduate with a degree in Software Quality Specialist***.
 - Formal education and experience in black and gray box testing of web applications.
 - Experience in test planning, test case creation, bug identification, analysis and tracking.
 - Good knowledge of open source and commercial test management and bug reporting tools.
 - Hands-on experience in functional, end-to-end, smoke, regression, UI, backend, cross-browser and cross-platform, user acceptance testing.
   
-![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!+I+love+it!)<br>
 
 I enjoy developing and applying my knowledge and practical experience to create a good, reliable product that meets customer requirements and satisfaction!
 
