@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 
 <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg"
-width="468" height="468" alt="banner_sitestroy.gif"
+width="468" height="458" alt="banner_sitestroy.gif"
  title="Какой-то текс при наведении!!!" border="0" />
 ### About ###
 #Hi, I am Tatiana
