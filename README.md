@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatsiana</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 <p style="float:right"><img src="tatianashamshurina/blob/main/image/quality-assurance-process-main.jpg" /></p>
-
-<a href="https://www.bdeb.qc.ca/formation/specialiste-en-qualite-logicielle-college-de-bois-de-boulogne-a-montreal" target="_blank">Lien de ma formation</a>
-
 
 ### About ###
 #Hi, I am Tatiana
