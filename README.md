@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 
-<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" align="right">
+<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-365x200.jpg" align="right">
 
 ### About ###
 # Hi, I am Tatiana
