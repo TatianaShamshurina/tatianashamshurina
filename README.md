@@ -93,7 +93,3 @@ Documentation Here
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=tatianashamshurina&theme=chartreuse-dark&show_icons=true)](https://github.com/tatianashamshurina/github-readme-stats)
-
-<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/all_about_my_projects.jpg>
-width="6353" height="393" alt="banner_qa.gif"
-title="Какой-то текс при наведении!!!" border="0" />
