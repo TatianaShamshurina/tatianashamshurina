@@ -11,8 +11,6 @@
 - Good knowledge of open source and commercial test management and bug reporting tools.
 - Hands-on experience in functional, end-to-end, smoke, regression, UI, backend, cross-browser and cross-platform, user acceptance testing.
   
-![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!+I+love+it!)<br>
-
 I enjoy developing and applying my knowledge and practical experience to create a good, reliable product that meets customer requirements and satisfaction!
 
 My greatest strength is having valuable software testing skills and the desire to learn more, which makes me a true professional QA engineer in this field:
@@ -21,6 +19,7 @@ My greatest strength is having valuable software testing skills and the desire t
 - Practical experience in testing web services (RESTful API) using Postman.
 - Experience in test automation using the Selenium WebDriver Python, Cypress framework.
 - High efficiency, communication skills, attention to detail.
+- ![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!+I+love+it!)<br>
 
 ## Documentation
 
@@ -30,21 +29,6 @@ Documentation Here
 
 ![The+only way to make great software is by working with great people](https://img.shields.io/badge/-QA-dbfff5?style=for-the-badge&)
 
-* Les exigences qualité                                     
-* Les normes et modèles du génie logiciel                   
-* Les mesures, les métriques                                
-* La vérification et la validation, les revues              
-* La gestion de configuration du logiciel                   
-* Les politiques, processus et procédures                    
-* La gestion du risque                                       
-* La culture qualité                                         
-* Eexcellente connaissances de réseaux informatiques: TCP/IP/HTTP...
-* Eexcellente connaissances d'architecture d'un réseau informatique
-* Eexcellente connaissances des systèmes d'exploitation
-* Bonnes connaissances de Linux
-* Eexcellente connaissances de virtualization 
-* Algorithmes et structures de données
-* Base de données SQL, MySql, Postgresql
 
 ### Langages et Outils
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
