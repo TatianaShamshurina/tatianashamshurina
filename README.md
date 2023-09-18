@@ -20,7 +20,7 @@ My greatest strength is having valuable software testing skills and the desire t
 - Experience in test automation using the Selenium WebDriver Python, Cypress framework.
 - High efficiency, communication skills, attention to detail.
   
-- ![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!+I+love+it!)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!+I+love+it!)<br>
 ## Documentation
 
 Documentation Here
