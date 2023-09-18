@@ -6,7 +6,7 @@
 ### About ###
 # Hi, I am Tatiana
 ***I am College graduate with a degree in Software Quality Specialist***.
-- Formal education and experience in black and gray box testing of web applications.
+- College education and experience in black and gray box testing of web applications.
 - Experience in test planning, test case creation, bug identification, analysis and tracking.
 - Good knowledge of open source and commercial test management and bug reporting tools.
 - Hands-on experience in functional, end-to-end, smoke, regression, UI, backend, cross-browser and cross-platform, user acceptance testing.
@@ -19,6 +19,7 @@ My greatest strength is having valuable software testing skills and the desire t
 - Practical experience in testing web services (RESTful API) using Postman.
 - Experience in test automation using the Selenium WebDriver Python, Cypress framework.
 - High efficiency, communication skills, attention to detail.
+  
 - ![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!+I+love+it!)<br>
 
 ## Documentation
