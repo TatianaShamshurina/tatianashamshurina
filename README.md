@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 
 ### About ###
-## I am Tatiana
+## I am Tatiana ##
 ***I am College graduate with a degree in Software Quality Specialist***.
 - College education and experience in black and gray box testing of web applications.
 - Experience in test planning, test case creation, bug identification, analysis and tracking.
