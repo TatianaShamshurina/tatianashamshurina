@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a>  <img src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg" width="10%">
-  <div id="header" align="right">
-  
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a>  
+  <a href="https://www.freepik.com/free-vector/girl-shy-character_11782630.htm#query=girl%20illustration&position=33&from_view=keyword&track=ais">
 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 
