@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a>  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34" src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg?w=740" width="10%" /></h1>
 <img src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg?w=740" align="center" width="10%">
 <div id="badges">
   <a href="https://www.linkedin.com/in/tatiana-sham/">
