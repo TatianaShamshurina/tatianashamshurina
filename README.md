@@ -2,11 +2,8 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 
-<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="15%" align="right">
-
-
 ### About ###
-# Hi, I am Tatiana
+## I am Tatiana
 ***I am College graduate with a degree in Software Quality Specialist***.
 - College education and experience in black and gray box testing of web applications.
 - Experience in test planning, test case creation, bug identification, analysis and tracking.
