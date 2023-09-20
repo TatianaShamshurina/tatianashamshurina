@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg"/>
+  <img src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg" width="50%"/>
 </div>
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
