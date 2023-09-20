@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a>  
-<img src="https://www.freepik.com/free-vector/girl-shy-character_11782630.htm#query=girl%20illustration&position=33&from_view=keyword&track=ais"/>
-
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 
 <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="547" height="300" align="right">
