@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a>  
-<img src="https://www.freepik.com/free-vector/girl-shy-character_11782630.htm#query=girl%20illustration&position=33&from_view=keyword&track=ais">
 <div id="header" align="right">
   <img src="https://www.freepik.com/free-vector/girl-shy-character_11782630.htm#query=girl%20illustration&position=33&from_view=keyword&track=ais" width="100"/>
 </div>
