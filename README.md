@@ -6,9 +6,9 @@
 </div> 
 <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https:https://github.com/TatianaShamshurina/count/tag.svg" alt="Views">
+    ![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
   </a>
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
+
 
 
 
