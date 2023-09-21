@@ -9,7 +9,7 @@
 
 <div id="badges">
  
-  <p><a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Open in a new tab</a></p>
+ 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a><br/>
 </div>
