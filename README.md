@@ -13,9 +13,6 @@
 
 
 
-<img src="https://github.com/TatianaShamshurina/&style=flat-square&color=blue" alt=""/>
-
-
  
 ### About ###
 ## I am Tatiana ##
