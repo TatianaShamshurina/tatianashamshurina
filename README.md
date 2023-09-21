@@ -64,11 +64,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianashamshurina&layout=compact&theme=vision-friendly-dark)](https://github.com/tatianashamshurina/github-readme-stats)
 
-Documentation Here
-
-*[Download Resume](https://tatianashamshurina.github.io/Resume_Tatsiana_Website/assets/CV_TATSIANA_SHAMSHURINA.pdf)*
-
-![The+only way to make great software is by working with great people](https://img.shields.io/badge/-QA-dbfff5?style=for-the-badge&)
+[![The+only way to make great software is by working with great people](https://img.shields.io/badge/-QA-dbfff5?style=for-the-badge&)]
 
 
 ### Langages et Outils
