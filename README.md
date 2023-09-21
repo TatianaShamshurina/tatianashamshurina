@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https:https://github.com/TatianaShamshurina/count/tag.svg" alt="Views">
   </a>
-
+![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 
 
 
