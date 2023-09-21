@@ -11,7 +11,7 @@
 <h1>Welcome to My Page</h1>
     <p>This page has been viewed <span id="pageViews">loading...</span> times.</p>
 
-    <script>
+    
         // Counter initialization
         let pageViewsCount = 0;
 
@@ -26,7 +26,7 @@
 
         // Call the function to update page views when the page loads
         window.addEventListener('load', updatePageViews);
-    </script>
+    
  
 
 
