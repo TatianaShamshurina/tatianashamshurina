@@ -82,12 +82,10 @@ Documentation Here
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![IIS](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=IIS&logoColor=white)
+![IIS](https://img.shields.io/badge/iis-%23009639.svg?style=for-the-badge&logo=IIS&logoColor=white)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Aqua](https://img.shields.io/badge/Aqua-%2366595C.svg?style=for-the-badge&logo=aqua&logoColor=white)
 ![Aqua](https://img.shields.io/badge/Aqua%20-00897B?style=for-the-badge&logo=aqua&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
