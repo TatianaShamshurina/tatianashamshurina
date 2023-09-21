@@ -62,6 +62,8 @@ My greatest strength is having valuable software testing skills and the desire t
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tatianashamshurina&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianashamshurina&layout=compact&theme=vision-friendly-dark)](https://github.com/tatianashamshurina/github-readme-stats)
+
 Documentation Here
 
 *[Download Resume](https://tatianashamshurina.github.io/Resume_Tatsiana_Website/assets/CV_TATSIANA_SHAMSHURINA.pdf)*
