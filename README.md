@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-![](https://komarev.com/ghpvc/TatianaShamshurina&style=plastic)
+![https://komarev.com/ghpvc/TatianaShamshurina&style=plastic]
 
 
 <img src="https://github.com/TatianaShamshurina/&style=flat-square&color=blue" alt=""/>
