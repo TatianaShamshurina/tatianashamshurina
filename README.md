@@ -22,7 +22,7 @@
  
 ### About ###
 ## I am Tatiana ##
-<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="50%" align="right">
+<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="25%" align="right">
 
 ***I am College graduate with a degree in Software Quality Specialist***.
 - College education and experience in black and gray box testing of web applications.
