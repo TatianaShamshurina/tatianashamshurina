@@ -9,7 +9,7 @@
 </a>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsianaShamshurina&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsianaShamshurina&theme=default)
 
 
     
