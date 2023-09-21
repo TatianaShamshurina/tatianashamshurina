@@ -7,7 +7,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 <div id="badges">
  
- <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank"">
+ <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
  </a><br/>
 </div>
