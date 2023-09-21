@@ -8,17 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https:https://github.com/TatianaShamshurina/count/tag.svg" alt="Views">
   </a>
-## Welcome to My GitHub Profile
 
-Thanks for visiting my profile! Here's a counter to keep track of the number of visitors:
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
-
-Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to [reach out](mailto:your.email@example.com).
-
-
-![Visitor Count](https://profile-counter.glitch.me/{TatsianaShamshurina}/count.svg)
-<img src="https://github.com/ghpvc/TatsianaShamshurina&style=flat-square&color=blue" alt=""/>
 
 
 
