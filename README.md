@@ -7,18 +7,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
 <div id="badges">
  
- <a href="www.linkedin.com/in/tatiana-sham/">
+ <p> <a href="https://www.linkedin.com/in/tatiana-sham/ target="_blank"">
+   
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a><br/>
+  </p></a><br/>
 </div>
  <img src="https://komarev.com/ghpvc/?username=tatianashamshurina&style=flat-square&color=blue" alt="" align="rigth"/>
 
  
- 
-
-
-
-
  
 ### About ###
 ## I am Tatiana ##
