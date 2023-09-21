@@ -8,7 +8,8 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
-<img src="https://github.com/ghpvc/?username=TatsianaShamshurina&style=flat-square&color=blue" alt=""/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
 
     
  
