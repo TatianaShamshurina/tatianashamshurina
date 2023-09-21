@@ -7,8 +7,7 @@
 <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank" >
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah) 
-
+![](https://komarev.com/ghpvc/?username=tatsianashamshurina)
 
 
 
