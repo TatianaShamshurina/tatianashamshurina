@@ -6,9 +6,8 @@
 </div> 
 <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<img src="https://komarev.com/ghpvc/?username=github.com/TatianaShamshurina&style=flat-square&color=blue" alt=""/>
-
+    <img src="https://komarev.com/ghpvc/?username=TatianaShamshurina/&style=flat-square&color=blue" alt=""/>
+</a>
 
 
 <img src="https://github.com/TatianaShamshurina/&style=flat-square&color=blue" alt=""/>
