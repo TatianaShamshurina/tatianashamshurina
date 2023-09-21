@@ -13,10 +13,7 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=tatianashamshurina&style=flat-square&color=blue" alt="" align="rigth"/>
 
- <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="547" height="300" align="right">
-
-
-    
+ 
  
 
 
@@ -25,6 +22,7 @@
  
 ### About ###
 ## I am Tatiana ##
+<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="547" height="300" align="right">
 ***I am College graduate with a degree in Software Quality Specialist***.
 - College education and experience in black and gray box testing of web applications.
 - Experience in test planning, test case creation, bug identification, analysis and tracking.
