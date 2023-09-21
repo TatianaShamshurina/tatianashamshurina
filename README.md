@@ -6,8 +6,27 @@
 </div> 
 <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank" >
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    
-  </a>
+</a>
+
+<h1>Welcome to My Page</h1>
+    <p>This page has been viewed <span id="pageViews">loading...</span> times.</p>
+
+    <script>
+        // Counter initialization
+        let pageViewsCount = 0;
+
+        // Function to update the page views count
+        function updatePageViews() {
+            // Increment the count
+            pageViewsCount++;
+
+            // Update the displayed count
+            document.getElementById('pageViews').textContent = pageViewsCount;
+        }
+
+        // Call the function to update page views when the page loads
+        window.addEventListener('load', updatePageViews);
+    </script>
  
 
 
