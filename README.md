@@ -25,9 +25,9 @@
 - Good knowledge of open source and commercial test management and bug reporting tools.
 - Hands-on experience in functional, end-to-end, smoke, regression, UI, backend, cross-browser and cross-platform, user acceptance testing.
   
-I enjoy developing and applying my knowledge and practical experience to create a good, reliable product that meets customer requirements and satisfaction!
+***I enjoy developing and applying my knowledge and practical experience to create a good, reliable product that meets customer requirements and satisfaction!***
 
-My greatest strength is having valuable software testing skills and the desire to learn more, which makes me a true professional QA engineer in this field:
+**My greatest strength is having valuable software testing skills and the desire to learn more, which makes me a true professional QA engineer in this field:**
 
 - HTML, XPath, Python, Java, JavaScript
 - Practical experience in testing web services (RESTful API) using Postman.
