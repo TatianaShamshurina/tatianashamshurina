@@ -6,11 +6,9 @@
 </div> 
 <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    ![Visitor Count](https://profile-counter.glitch.me/{TatsianaShamshurina}/count.svg)
+  </a>
 
-</a>
-
-
+![Visitor Count](https://profile-counter.glitch.me/{TatsianaShamshurina}/count.svg)
 <img src="https://github.com/TatianaShamshurina/&style=flat-square&color=blue" alt=""/>
 
 
