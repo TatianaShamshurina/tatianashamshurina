@@ -5,8 +5,8 @@
   <img src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg?w=740" width="100"/>
 </div> 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/tatiana-sham/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge" align="center">
+  <a href="https://www.linkedin.com/in/tatiana-sham/"  target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" >
   </a>
  </div>
  
