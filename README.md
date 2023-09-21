@@ -8,7 +8,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
-![Page Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Page%20Views&query=%24.views&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyour-username%2Fyour-repo-name%2Fbadge.svg)
+<img src="https://github.com/TatsianaShamshurina/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
     
  
