@@ -8,7 +8,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     
   </a>
-<img src="https://www.github/TatsianaShamshurina/badge/dynamic/json?color=blue&label=Visitors&query=%24.total&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fyour-username%2Fyour-repo-name%2F%3Fkey%3Dyour-api-key" alt="Visitors">
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 
 
