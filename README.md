@@ -9,6 +9,10 @@
   </a>
 
 ![Visitor Count](https://profile-counter.glitch.me/{TatsianaShamshurina}/count.svg)
+<img src="https://github.com/ghpvc/TatsianaShamshurina&style=flat-square&color=blue" alt=""/>
+
+
+
 <img src="https://github.com/TatianaShamshurina/&style=flat-square&color=blue" alt=""/>
 
 
