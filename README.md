@@ -40,6 +40,8 @@ My greatest strength is having valuable software testing skills and the desire t
 - High efficiency, communication skills, attention to detail.
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$D92042&lines=Software+testing+is+my+passion!+I+love+it!)<br>
+
+<img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="547" height="300" align="center">
 ## Documentation
 
 Documentation Here
