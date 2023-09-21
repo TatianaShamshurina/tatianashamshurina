@@ -59,7 +59,8 @@ My greatest strength is having valuable software testing skills and the desire t
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tatsianshamshurina)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tatianashamshurina&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tatsianashamshurina&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Documentation Here
 
