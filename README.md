@@ -39,7 +39,7 @@ My greatest strength is having valuable software testing skills and the desire t
 
 <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="100%" align="center">
 ## Documentation
-
+---
 Documentation Here
 
 *[Download Resume](https://tatianashamshurina.github.io/Resume_Tatsiana_Website/assets/CV_TATSIANA_SHAMSHURINA.pdf)*
