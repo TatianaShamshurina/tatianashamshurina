@@ -13,7 +13,7 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=tatianashamshurina&style=flat-square&color=blue" alt="" align="rigth"/>
 
- 
+ <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="547" height="300" align="right">
 
 
     
