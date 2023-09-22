@@ -65,7 +65,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianashamshurina&layout=compact&theme=vision-friendly-dark)](https://github.com/tatianashamshurina/github-readme-stats)
 
 ![The+only+way+to+make+great+software+is+by+working+with+great+people](https://img.shields.io/badge/QA-dbfff5?style=for-the-badge&)
-
+![The only way to make great software is by working with great people](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ### Langages et Outils
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
