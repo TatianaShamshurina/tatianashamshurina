@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg?w=740" width="250"/>
 </div> 
-<h1 align="center">Hi there, I'm Tatsiana  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">Hi there, I'm Tatsiana  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <h1 align="center"><a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Steve Jobs' src='https://img.shields.io/badge/People_with passion can change the world for the better-100000?style=plastic&logo=Steve Jobs&logoColor=121212&labelColor=05F7DF&color=097C78'/></a>
@@ -42,7 +43,7 @@
 
 <img src="https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/qa-1-730x400.jpg" width="100%" align="center">
 
-## Documentation ##
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
