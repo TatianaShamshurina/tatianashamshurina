@@ -66,7 +66,7 @@
 
 ![The+only+way+to+make+great+software+is+by+working+with+great+people](https://img.shields.io/badge/QA-dbfff5?style=for-the-badge&)
 
-![The only way to make great software is by working with great people](https://img.shields.io/badge/The only way to make great software is by working with great people-%23172BF4.svg?style=for-the-badge&logo=The+only+way+to+make+great+software+is+by+working+with+great+people&logoColor=white)
+![The only way to make great software is by working with great people](https://img.shields.io/badge/way-%23172BF4.svg?style=for-the-badge&logo=The only way to make great software is by working with great people&logoColor=white)
 
 ### Langages et Outils
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
