@@ -5,7 +5,7 @@
 </div> 
 
 <h1 align="center">Hi there, I'm Tatsiana <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
-
+![Alt Text](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 <h1 align="center"><a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Steve Jobs' src='https://img.shields.io/badge/People_with passion can change the world for the better-100000?style=plastic&logo=Steve Jobs&logoColor=121212&labelColor=05F7DF&color=097C78'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt=' ' src='https://img.shields.io/badge/SteveJobs-100000?style=plastic&logo= &logoColor=121212&labelColor=05F7DF&color=FFFF0A'/></a>
   
