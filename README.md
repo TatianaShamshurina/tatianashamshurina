@@ -5,7 +5,9 @@
 </div> 
 <h1 align="center">Hi there, I'm Tatsiana  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="34"/></h1>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Success' src='https://img.shields.io/badge/The_only way to make great software is by working with great people!-100000?style=for-the-badge&logo=Success&logoColor=FAF7FA&labelColor=1C1C1C&color=00FFFF'/></a>
+
+<h1 align="center"><a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Success' src='https://img.shields.io/badge/The_only way to make great software is by working with great people!-100000?style=for-the-badge&logo=Success&logoColor=FAF7FA&labelColor=1C1C1C&color=00FFFF'/></a></h1>
+
 <div id="badges">
 
  <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">
