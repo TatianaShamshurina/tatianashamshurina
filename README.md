@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg?w=740" width="250"/>
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">Tatsiana</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
