@@ -65,7 +65,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianashamshurina&layout=compact&theme=vision-friendly-dark)](https://github.com/tatianashamshurina/github-readme-stats)
 
 ![The+only+way+to+make+great+software+is+by+working+with+great+people](https://img.shields.io/badge/QA-dbfff5?style=for-the-badge&)
-![The+only+way+to+make+great+software+is+by+working+with+great+people](https://img.shields.io/badge/The-only-way-to-make-great-software-is-by-working-with-great-people-dbfff5?style=for-the-badge&)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Success' src='https://img.shields.io/badge/The+only+way+to+make+great+software+is+by+working+with+great+people-100000?style=for-the-badge&logo=Success&logoColor=084C4C&labelColor=1C1C1C&color=40E0D0'/></a>
 
 ![The only way to make great software is by working with great people](https://img.shields.io/badge/way-%23172BF4.svg?style=for-the-badge&logo=The only way to make great software is by working with great people&logoColor=white)
 
