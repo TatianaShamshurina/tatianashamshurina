@@ -4,7 +4,7 @@
   <img src="https://img.freepik.com/premium-vector/cute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg?w=740" width="250"/>
 </div> 
 
-<h1 align="center">Hi there, I'm Tatsiana <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="40" height="40" /></h1>
+<h1 align="center">Hi there, I'm Tatsiana <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="40" height="40"></h1>
 
 
 <h1 align="center"><a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Steve Jobs' src='https://img.shields.io/badge/People_with passion can change the world for the better-100000?style=plastic&logo=Steve Jobs&logoColor=121212&labelColor=05F7DF&color=097C78'/></a>
