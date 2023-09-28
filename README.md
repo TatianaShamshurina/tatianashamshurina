@@ -23,7 +23,10 @@
  
  
 ### About ###
-I am Tatiana, **[Certified Software Quality Specialist]{cyan}**
+
+```diff
++I am Tatiana, Certified Software Quality Specialist
+```
 
 
 
