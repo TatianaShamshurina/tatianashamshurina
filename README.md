@@ -23,7 +23,9 @@
  
  
 ### About ###
-## +I am Tatiana, Certified Software Quality Specialist ##
+## I am Tatiana, Certified Software Quality Specialist ##
+
+<style>H1{color:Blue;}</style>
 
 
 ***I am College graduate with a degree in Software Quality Specialist***.
