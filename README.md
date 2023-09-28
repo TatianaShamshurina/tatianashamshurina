@@ -10,12 +10,8 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$117A65&lines=Testing+is+my+passion!+I+love+it!)
   
-<a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
- </a>
-</h1>
+  <img align="center" src="https://TatianaShamshurina/tatianashamshurina/image/linkedin_Picture2.jpg"/>
 
- <img src="https://komarev.com/ghpvc/?username=tatianashamshurina&style=flat-square&color=blue" alt="" align="rigth"/>
 
  
  
