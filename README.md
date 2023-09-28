@@ -23,10 +23,6 @@ $$ {\color{blue}I \space am \space Tatiana \space , \space Certified \space Soft
 
 ### About ###
 
-**I am Tatiana, Certified Software Quality Specialist**
-
-
-
 ***I am College graduate with a degree in Software Quality Specialist***.
 - College education and experience in black and gray box testing of web applications.
 - Experience in test planning, test case creation, bug identification, analysis and tracking.
