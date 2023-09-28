@@ -22,7 +22,7 @@
 
 ### About ###
 
-$$ {\color{cyan}I \space am \space Tatiana \space , \space Certified \space Software \space Quality \space Specialist} $$
+$$ {\color{darkcyan}I \space am \space Tatiana \space , \space Certified \space Software \space Quality \space Specialist} $$
 
 **I am Tatiana, Certified Software Quality Specialist**
 
