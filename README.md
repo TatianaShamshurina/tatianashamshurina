@@ -22,12 +22,9 @@
 
  
  
-$$ About 
-##
-```diff
-I am Tatiana, Certified Software Quality Specialist
-```
-##
+### About ###
+$${\color{lightgreen}I \space am \space Tatiana \space , \space Certified \spaceSoftwarw \spaceQuality \space Specialist}$$
+## I am Tatiana, Certified Software Quality Specialist ##
 
 
 
