@@ -9,8 +9,9 @@
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt=' ' src='https://img.shields.io/badge/Steve Jobs-100000?style=plastic&logo= &logoColor=121212&labelColor=05F7DF&color=FFFF0A'/></a>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$117A65&lines=Testing+is+my+passion!+I+love+it!)
-  
-  <img align="center" src="https://TatianaShamshurina/tatianashamshurina/image/linkedin_Picture2.jpg"/>
+
+![](https://github.com/TatianaShamshurina/tatianashamshurina/blob/main/image/linkedin_Picture2.jpg)
+
 
 
  
