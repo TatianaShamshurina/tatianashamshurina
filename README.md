@@ -10,7 +10,7 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=$117A65&lines=Testing+is+my+passion!+I+love+it!)
 
-$$ {\color{blue}I \space am \space Tatiana \space , \space Certified \space Software \space Quality \space Specialist} $$
+$$ {\color{aqua}I \space am \space Tatiana \space , \space Certified \space Software \space Quality \space Specialist} $$
 
 <a href="https://www.linkedin.com/in/tatiana-sham/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -22,8 +22,6 @@ $$ {\color{blue}I \space am \space Tatiana \space , \space Certified \space Soft
 
 
 ### About ###
-
-$$ {\color{blue}I \space am \space Tatiana \space , \space Certified \space Software \space Quality \space Specialist} $$
 
 **I am Tatiana, Certified Software Quality Specialist**
 
