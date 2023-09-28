@@ -16,7 +16,7 @@
  </a>
 </h1>
 
- <img src="https://komarev.com/ghpvc/?username=tatianashamshurina&style=flat-square&color=blue" alt="" align="rigth"/>
+ <img src="https://komarev.com/ghpvc/?username=tatianashamshurina&style=plastic&color=blue" alt="" align="rigth"/>
 
 
 
